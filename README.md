@@ -24,5 +24,5 @@ This command makes a new folder
 ### jsfiddle.net 
 Can be used directly with stackoverflow or other resources
 
-###CodePen.io
+### CodePen.io
 Similar to jsfiddle
