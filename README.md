@@ -18,3 +18,8 @@ The -m means message(?)
 ## cmd commands
 ### mkdir
 This command makes a new folder
+
+## Resources
+stackoverflow
+jsfiddle.net --> Can be used directly with stackoverflow or other resources.
+CodePen.io
