@@ -20,6 +20,8 @@ The -m means message(?)
 This command makes a new folder
 
 ## Resources
--stackoverflow
--jsfiddle.net --> Can be used directly with stackoverflow or other resources.
--CodePen.io
+### stackoverflow
+### jsfiddle.net 
+Can be used directly with stackoverflow or other resources.
+###CodePen.io
+Similar to jsfiddle
