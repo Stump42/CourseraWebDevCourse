@@ -28,6 +28,7 @@ Can be used directly with stackoverflow or other resources
 Similar to jsfiddle
 
 ## HTML
+### Defined
 HyperText Markup Language.
 H: text which contains link to other text.
 M: Example <title> Text</title>. Mark that text with identifiers so that you can highlight it appropriately.
@@ -36,3 +37,20 @@ L: it is readable by humans
 * HTML: Structure for the web.
 * CSS: Style maker for the web
 * JS: Controls the behavior. Provides functionality to the page.
+
+### History
+Meh. Didn't type much. Look up site. HTML, W3C, Can I use .com, browser statistics on w3 schools. 
+
+### Rules
+Some tags do not have closing tags. Such as: <br> line break and <hr> horizontal rule.
+
+Attributes are things that are usually predefined for tags, such as id in <p id="my Id"></p>. Single and double quotes are allowed for attribute values.
+
+Self closing tag <p/>. (does it work for p?). Don't use if you intend to add content to it later.
+
+### Elements
+Block level elements: Render to begin on a new line by default
+may contain inline or other block level elements
+
+Inline Elements: render on the same line by default.
+may only contain other inline elements.
