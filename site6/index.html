@@ -3,8 +3,8 @@
 <head>
 	<style>
 		.button1 {width: 33%;
-			height: 70px;
-			font-size: 40px;
+			height:90px;
+			font-size: 60px;
 		}
 		body {background-color: black;}
 		h1   {color: white;
@@ -22,9 +22,12 @@
 	Instead of typing the ampersand symbol, type &amp;
 	&nbsp; adds some space around a word, but if you wanted to add a lot of space you should use a different command to add some margin to the word you are moving.
 <h1>Some stuff</h1>
-<button class="button1">Monthly Expenses</button>
-<button class="button1">Debts</button>
-<button class="button1">Accounts</button>
+<button class="button1" id="button1" onclick="changeColor()">Expenses</button>
+<button class="button1" onclick="changeColor()">Debts</button>
+<button class="button1" onclick="changeColor()">Accounts</button>
+function changeColor(){
+	document.getElementById("button1").style.color="red";
+}
 <div>
 	Shopping List:
 	<ul>
